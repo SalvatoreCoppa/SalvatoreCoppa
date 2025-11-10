@@ -55,5 +55,6 @@ I'm passionate about **building secure, efficient, and intelligent systems** fro
 ### 📫 Let's Connect
 
 * ✉️ **Email:** [salvatorecoppa2002@gmail.com](mailto:salvatorecoppa2002@gmail.com)
+* ✉️ **PEC:** [salvatorecoppa@superpec.it](mailto:salvatorecoppa@superpec.it)
 
 ⭐️ Feel free to explore my repositories and reach out for collaborations or projects!
