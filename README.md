@@ -32,7 +32,7 @@ I'm passionate about **building secure, efficient, and intelligent systems** fro
 
 **🔹 Hardware & Platforms:**
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stm32&logoColor=white" alt="STM32"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/> <img src="https://img.shields.io/badge/FPGA-D9531E?style=for-the-badge&logoColor=white" alt="FPGA"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/> <img src="https://img.shields.io/badge/FPGA-D9531E?style=for-the-badge&logoColor=white" alt="FPGA"/>
 
 **🔹 AI/ML Frameworks:**
 
