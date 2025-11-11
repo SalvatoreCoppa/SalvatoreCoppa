@@ -46,9 +46,9 @@ I'm passionate about **building secure, efficient, and intelligent systems** fro
 
 ### 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SalvatoreCoppa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Statistiche GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalvatoreCoppa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistiche GitHub"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreCoppa&layout=compact&theme=dark" alt="Linguaggi più usati"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreCoppa&layout=compact&theme=dracula" alt="Linguaggi più usati"/>
 
 ---
 
