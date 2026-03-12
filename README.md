@@ -28,11 +28,21 @@ I'm passionate about **building secure, efficient, and intelligent systems** fro
 
 **🔹 Languages:**
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logoColor=white" alt="Verilog"/>
 
 **🔹 Hardware & Platforms:**
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/> <img src="https://img.shields.io/badge/FPGA-D9531E?style=for-the-badge&logoColor=white" alt="FPGA"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/AMD%20Xilinx%20FPGA-E01F27?style=for-the-badge&logoColor=white" alt="AMD Xilinx FPGA"/>
+
+**🔹 FPGA & Hardware Design Tools:**
+
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logoColor=white" alt="Vivado"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vitis-FFB000?style=for-the-badge&logoColor=black" alt="Vitis"/>
 
 **🔹 AI/ML Frameworks:**
 
