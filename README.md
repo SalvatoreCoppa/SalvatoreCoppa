@@ -1,6 +1,7 @@
 👋 Hi, I'm Salvatore Coppa
 
-🎓 Computer Engineering graduate from **University of Salerno**, currently pursuing a Master's degree in Computer Engineering (IoT & Embedded Systems curriculum).
+🎓 Computer Engineering Master's Graduate from the **University of Salerno (UNISA)**.
+🔬  Focusing on IoT, Embedded Systems and Hardware Security.
 
 ---
 
@@ -8,23 +9,25 @@
 
 I am deeply interested in the intersection of hardware, security, and intelligent systems. My main focuses are:
 
-* ⚙️ **Microcontrollers & Embedded Systems:** Designing and programming low-level hardware solutions.
-* 🔒 **Post-Quantum Computing (PQC):** Researching and implementing cryptographic systems resistant to quantum attacks (ML-KEM & ML-DSA).
-* 🔑 **Cryptography:** Developing and analyzing secure communication protocols.
-* 🕹️ **Control Systems:** Modeling and implementing feedback loops for physical systems (PID Controllers).
-* ☁️ **Cloud Applications:** Designing and developing scalable cloud solutions for data management and processing.
-* 🧠 **Deep Learning:** Applying and implementing neural network models for data analysis and developing AI solutions.
+- ⚙️ **Microcontrollers & Embedded Systems:** Designing and programming low-level hardware solutions.
+- 🛡️ **Hardware Security:** Investigating physical device vulnerabilities, with a specific focus on Side-Channel Attacks for scientific research.
+- 🔒 **Post-Quantum Cryptography (PQC):** Researching and implementing cryptographic algorithms resistant to quantum attacks (ML-KEM & ML-DSA) in constrained environments.
+- 🔑 **Cryptography:** Developing and analyzing secure communication protocols.
+- 🧠 **Deep Learning & Edge AI:** Applying neural network models for data analysis and integrating AI directly into embedded systems.
+- 🕹️ **Control Systems:** Modeling and implementing feedback loops for physical systems (PID Controllers).
+- ☁️ **Cloud Applications:** Designing and developing scalable cloud solutions for data management and processing.
 
 ---
 
 ### 💻 My Passion
 
-I'm passionate about **building secure, efficient, and intelligent systems** from the ground up—from the microcontroller firmware to the cloud backend. I enjoy tackling complex challenges in system security and finding innovative ways to apply cutting-edge algorithms to real-world hardware.
+I am passionate about **bridging the gap between software theory and real-world hardware execution**. From writing optimized low-level firmware to bringing physical devices to life, my goal is to engineer hardware solutions that are highly functional, scalable, and inherently secure. 
+
+I enjoy tackling complex challenges across the full embedded stack—from the microcontroller firmware to the cloud backend. My hands-on expertise is deeply focused on hardware-software integration, with a strong emphasis on STM32 ecosystems and ARM/FPGA SoCs, constantly exploring new ways to push the boundaries of performance and security at the edge.
 
 ---
 
 ### 🛠️ Tech & Tools
-
 
 **🔹 Languages:**
 
@@ -58,7 +61,7 @@ I'm passionate about **building secure, efficient, and intelligent systems** fro
 
 ### 📫 Let's Connect
 
-* ✉️ **Email:** [salvatorecoppa2002@gmail.com](mailto:salvatorecoppa2002@gmail.com)
-* ✉️ **PEC:** [salvatorecoppa@superpec.it](mailto:salvatorecoppa@superpec.it)
+- ✉️ **Email:** [salvatorecoppa2002@gmail.com](mailto:salvatorecoppa2002@gmail.com)
+- ✉️ **PEC:** [salvatorecoppa@superpec.it](mailto:salvatorecoppa@superpec.it)
 
 ⭐️ Feel free to explore my repositories and reach out for collaborations or projects!
